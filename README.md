@@ -11,13 +11,13 @@ In this project, I helped PyBer create a summary DataFrame of the ride-sharing d
 
 ## PyBer Analysis Results
 
-![Ride-Sharing Summary by City Type in DataFrame](Resources/DataFrame_CityTypeSummary.png)
+![Ride-Sharing Summary by City Type in DataFrame](analysis/DataFrame_CityTypeSummary.png)
 - The DataFrame Summary:
     - Overall, we can see that the Urban city type outperformed the other two types in terms of Total Rides, Total Drivers, and Total Fare.
     
     However, in terms of Average Fare per Ride and Average Fare per Driver, it has the least amount of dollars, and Rural had the highest amount of money.
 
-![Total Fare by City Type](Resources/TotalFareByCityType.png)
+![Total Fare by City Type](analysis/TotalFareByCityType.png)
 - The Multiple-Line chart representing Weekly bins and the sum of the fares for each week:
     - Since this graph shows the Total Fare by City Type, combined with the previous summary, we can see that the Urban area got the most fare, whereas Rural generated the least fare. In addition, it shows that the total fare is fluctuated through out from January to April, without any clear sign of a positive or negative trend.
     - There are few weeks during this period that the Rural area almost generated 0$ of the total fare.
